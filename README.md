@@ -6,6 +6,7 @@ The program controls the vehicle fleet of a car rental company.
 
 Authors:
 Hugo Aquino
+
 Samuel Viegas
 
 ## Folder Structure

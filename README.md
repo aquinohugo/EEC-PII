@@ -4,6 +4,10 @@ This project was put together at as a final project Computer Programming II subj
 
 The program controls the vehicle fleet of a car rental company.
 
+Authors:
+Hugo Aquino
+Samuel Viegas
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:

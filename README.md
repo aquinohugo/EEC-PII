@@ -1,6 +1,8 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project was put together at as a final project Computer Programming II subject, on our Engineering degree.
+
+The program controls the vehicle fleet of a car rental company.
 
 ## Folder Structure
 

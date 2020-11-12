@@ -1,8 +1,8 @@
 ## Getting Started
 
-This project was put together at as a final project Computer Programming II subject, on our Engineering degree.
+This project was put together at a Computer Programming II subject on our Electronics Engineering degree.
 
-The program controls the vehicle fleet of a car rental company.
+The program controls the fleet of vehicles of a car rental company.
 
 Authors:
 

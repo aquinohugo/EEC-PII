@@ -3,10 +3,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-/**
- *
- * @author Artifex
- */
+
 public class Veiculo implements Serializable
 {
     private int numero_chassis,numero_candidaturas;
@@ -139,6 +136,3 @@ public class Veiculo implements Serializable
         return str.toString();            
     }
 }       
-      
-
-

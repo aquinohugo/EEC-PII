@@ -1,5 +1,4 @@
 package projeto_final;
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -10,11 +9,6 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-
-/**
- *
- * @author Artifex
- */
 public class Gestao 
 {
     private ArrayList<Tipo_veiculo> tipos_veiculos = new ArrayList<>();

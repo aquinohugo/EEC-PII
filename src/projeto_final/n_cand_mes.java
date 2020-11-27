@@ -1,11 +1,6 @@
 package projeto_final;
-
 import java.io.Serializable;
 
-/**
- *
- * @author Artifex
- */
 public class n_cand_mes implements Serializable
 {
     private int ano,mes;

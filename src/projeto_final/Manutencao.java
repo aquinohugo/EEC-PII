@@ -1,10 +1,7 @@
 package projeto_final;
 import java.io.Serializable;
 import java.util.Calendar;
-/**
- *
- * @author Artifex
- */
+
 public class Manutencao extends Situacao implements Serializable
 {
     private  int numero;
@@ -54,5 +51,4 @@ public class Manutencao extends Situacao implements Serializable
         str.append(data_registo.get(Calendar.YEAR));         
         return str.toString(); 
     }    
-
 }

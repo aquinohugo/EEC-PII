@@ -1,10 +1,7 @@
 package projeto_final;
 import java.io.Serializable;
 import java.util.Calendar;
-/**
- *
- * @author Artifex
- */
+
 public class Candidatura implements Serializable
 {
     private  int numero; 
@@ -117,6 +114,4 @@ public class Candidatura implements Serializable
         }
         return str.toString(); 
     }
-
-
 }

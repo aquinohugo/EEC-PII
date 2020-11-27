@@ -4,10 +4,7 @@ import java.text.SimpleDateFormat;
 import util.Consola;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-/**
- *
- * @author Artifex
- */
+
 public class Projeto_final 
 {
     public static SimpleDateFormat formato=new SimpleDateFormat("dd-MM-yyyy");

@@ -1,10 +1,7 @@
 package projeto_final;
 import java.io.Serializable;
 import java.util.ArrayList;
-/**
- *
- * @author Artifex
- */
+
 public class Tipo_veiculo implements Serializable
 {
 

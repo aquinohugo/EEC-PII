@@ -1,10 +1,7 @@
 package projeto_final;
 import java.io.Serializable;
 import java.util.Calendar;
-/**
- *
- * @author Artifex
- */
+
 public class Funcionario implements Serializable
 {
     private int nif;
